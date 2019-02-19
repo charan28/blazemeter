@@ -1,0 +1,4 @@
+# modules needed for test framework
+requests
+coverage
+pytest
